@@ -240,7 +240,7 @@ export VULNCHECK_CONCURRENT=5
 ### Development Setup
 ```bash
 # Clone repository
-git clone https://github.com/itesh19/vuln-check.git
+git clone https://github.com/Itesh09/vuln-check.git
 cd vuln-check
 
 # Create virtual environment
@@ -285,15 +285,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - [API Documentation](docs/api.md)
 - [Development Guide](docs/development.md)
 
-### Issues
-- [Bug Reports](https://github.com/itesh19/vuln-check/issues)
-- [Feature Requests](https://github.com/yourusername/vuln-check/issues)
-- [Security Issues](https://github.com/yourusername/vuln-check/security)
 
-### Community
-- [Discussions](https://github.com/yourusername/vuln-check/discussions)
-- [Wiki](https://github.com/yourusername/vuln-check/wiki)
-
----
 
 **🔒 Security First, 🧠 Intelligence-Driven, 🚀 Production-Ready**
